@@ -1,0 +1,5 @@
+Nama: Fajar Abdurrohman
+Warna: Putih dan Merah
+Bahasa pemrograman ingin dikuasai : Javascript, Python, Java, Dart
+Framework Front End ingin dikuasai : ReactJs, VueJs
+Framework Backend ingin dikuasai : Laravel, NodeJs
